@@ -1,3 +1,3 @@
 # HTML and CSS Project
 
-This project is created by Akanksha Patil.
+This project is created by Aakanksha Patil. 
